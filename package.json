@@ -28,7 +28,8 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.6.3",
         "bootstrap": "4.2.1",
-        "jquery": "3.3.1"
+        "jquery": "3.3.1",
+        "popper.js": "^1.14.6"
     },
     "devDependencies": {
         "browser-sync": "2.26.3",
@@ -38,7 +39,7 @@
         "gulp-header": "2.0.7",
         "gulp-plumber": "^1.2.1",
         "gulp-rename": "1.4.0",
-        "gulp-sass": "4.0.2",
+        "gulp-sass": "^4.0.2",
         "gulp-uglify": "3.0.1"
     }
 }
